@@ -3,6 +3,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/vbouchaud/k8s-ldap-auth?style=for-the-badge)](https://github.com/vbouchaud/k8s-ldap-auth/releases/latest)
 [![License](https://img.shields.io/github/license/vbouchaud/k8s-ldap-auth?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
 [![Go Report Card](https://goreportcard.com/badge/github.com/vbouchaud/k8s-ldap-auth?style=for-the-badge)](https://goreportcard.com/report/github.com/vbouchaud/k8s-ldap-auth)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvbouchaud%2Fk8s-ldap-auth.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvbouchaud%2Fk8s-ldap-auth?ref=badge_shield)
 
 ## What
 
@@ -347,3 +348,7 @@ I originaly started this project after reading Daniel Weibel's article "Implemen
 
  - Group search for ldap not supporting `memberof` attribute ;
  - Helm chart ;
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvbouchaud%2Fk8s-ldap-auth.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvbouchaud%2Fk8s-ldap-auth?ref=badge_large)
